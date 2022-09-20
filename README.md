@@ -1,2 +1,2 @@
-# Challenge20
+# Demo Project
 This is for September Opensource Challenge
